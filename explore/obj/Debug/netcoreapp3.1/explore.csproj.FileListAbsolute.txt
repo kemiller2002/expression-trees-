@@ -1,0 +1,11 @@
+C:\projects\expression-trees-\explore\bin\Debug\netcoreapp3.1\explore.exe
+C:\projects\expression-trees-\explore\bin\Debug\netcoreapp3.1\explore.deps.json
+C:\projects\expression-trees-\explore\bin\Debug\netcoreapp3.1\explore.runtimeconfig.json
+C:\projects\expression-trees-\explore\bin\Debug\netcoreapp3.1\explore.runtimeconfig.dev.json
+C:\projects\expression-trees-\explore\bin\Debug\netcoreapp3.1\explore.dll
+C:\projects\expression-trees-\explore\bin\Debug\netcoreapp3.1\explore.pdb
+C:\projects\expression-trees-\explore\obj\Debug\netcoreapp3.1\explore.csprojAssemblyReference.cache
+C:\projects\expression-trees-\explore\obj\Debug\netcoreapp3.1\explore.AssemblyInfoInputs.cache
+C:\projects\expression-trees-\explore\obj\Debug\netcoreapp3.1\explore.AssemblyInfo.cs
+C:\projects\expression-trees-\explore\obj\Debug\netcoreapp3.1\explore.dll
+C:\projects\expression-trees-\explore\obj\Debug\netcoreapp3.1\explore.pdb

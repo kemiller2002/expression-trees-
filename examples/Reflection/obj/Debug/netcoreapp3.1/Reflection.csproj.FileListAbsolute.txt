@@ -1,0 +1,11 @@
+C:\projects\expression-trees-\examples\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+C:\projects\expression-trees-\examples\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+C:\projects\expression-trees-\examples\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+C:\projects\expression-trees-\examples\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+C:\projects\expression-trees-\examples\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+C:\projects\expression-trees-\examples\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+C:\projects\expression-trees-\examples\Reflection\obj\Debug\netcoreapp3.1\Reflection.csprojAssemblyReference.cache
+C:\projects\expression-trees-\examples\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+C:\projects\expression-trees-\examples\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+C:\projects\expression-trees-\examples\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+C:\projects\expression-trees-\examples\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
