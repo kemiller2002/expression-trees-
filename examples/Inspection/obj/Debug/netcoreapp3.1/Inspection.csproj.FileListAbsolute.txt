@@ -1,0 +1,11 @@
+C:\projects\expression-trees-\examples\Inspection\bin\Debug\netcoreapp3.1\Inspection.exe
+C:\projects\expression-trees-\examples\Inspection\bin\Debug\netcoreapp3.1\Inspection.deps.json
+C:\projects\expression-trees-\examples\Inspection\bin\Debug\netcoreapp3.1\Inspection.runtimeconfig.json
+C:\projects\expression-trees-\examples\Inspection\bin\Debug\netcoreapp3.1\Inspection.runtimeconfig.dev.json
+C:\projects\expression-trees-\examples\Inspection\bin\Debug\netcoreapp3.1\Inspection.dll
+C:\projects\expression-trees-\examples\Inspection\bin\Debug\netcoreapp3.1\Inspection.pdb
+C:\projects\expression-trees-\examples\Inspection\obj\Debug\netcoreapp3.1\Inspection.csprojAssemblyReference.cache
+C:\projects\expression-trees-\examples\Inspection\obj\Debug\netcoreapp3.1\Inspection.AssemblyInfoInputs.cache
+C:\projects\expression-trees-\examples\Inspection\obj\Debug\netcoreapp3.1\Inspection.AssemblyInfo.cs
+C:\projects\expression-trees-\examples\Inspection\obj\Debug\netcoreapp3.1\Inspection.dll
+C:\projects\expression-trees-\examples\Inspection\obj\Debug\netcoreapp3.1\Inspection.pdb

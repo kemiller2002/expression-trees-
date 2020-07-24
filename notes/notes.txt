@@ -1,3 +1,19 @@
 What are expression trees
 use in LINQ
- 
+Show basic example
+talk about building them
+show how you can call with reflection 
+
+pass Funcs in expression parameters
+    -- http://ikoshelev.azurewebsites.net/search/id/1/Expression-trees-and-advanced-queries-in-CSharp-01-IQueryable-and-Expression-Tree-basics
+
+
+IEnumerable vs IQueryable
+    IEnumerbale as pipeline (loop and return result)
+    IQueryable as way explaining a 
+        desired outcome and then creating in the specific needed format/language
+
+do delegate things?
+
+https://dotnetfiddle.net/kUwSXG
+

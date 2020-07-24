@@ -9,30 +9,34 @@ namespace Reflection
         static void Main(string[] args)
         {
 
-            var parameters = 
+            var parameters =
                 Enumerable.Range(0, 4)
-                .Select(x => Expression.Parameter(typeof(int), $"prm{x.ToString()}"))
+                .Select(x => Expression.Parameter(typeof(int)))
                 .ToArray();
 
-            
-            var block = Expression.Block (
-                parameters.Cast<Expression>().Aggregate((s,i) => Expression.Add(s, i))
+
+            var block = Expression.Block(
+                parameters.Cast<Expression>().Aggregate((s, i) => Expression.Add(s, i))
             );
 
             var lambda = Expression.Lambda(
-                block, 
+                block,
                 parameters
             );
-            
-            //var compiled = (Func<int,int,int,int,int>)lambda.Compile();
-            //Console.WriteLine(compiled(1,2,3,4));
 
             var compiled = lambda.Compile();
 
             var type = compiled.GetType();
 
-            var tParameters = type.GetMethod("Invoke");
+            var methodInfo = type.GetMethod("Invoke");
 
+            var tParameters = methodInfo.GetParameters();
+
+            tParameters.Select(x => x.Name).ToList().ForEach(Console.WriteLine);
+
+            var result = methodInfo.Invoke(compiled, new Object[] { 1, 2, 3, 4 });
+
+            Console.WriteLine(result);
         }
 
     }
